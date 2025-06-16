@@ -1,6 +1,6 @@
 # Desenvolvendo o Dio Bank
-desenvolvido por Nathally Souza
-Finalizado por Cauan(AKA eu mesmo)
+- Desenvolvido por Nathally Souza
+- Finalizado por Cauan(AKA eu mesmo)
 
 #### Projeto desenvolvido com React
 
